@@ -1,3 +1,3 @@
 # ohtuvarasto
 
-![GHA workflow badge](https://github.com/eliaslehtinen/ohtuvarasto/workflows/IC/badge.svg)
+![GHA workflow badge](https://github.com/eliaslehtinen/ohtuvarasto/workflows/CI/badge.svg)
