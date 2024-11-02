@@ -20,6 +20,7 @@ class Varasto:
     def paljonko_mahtuu(self):
         return self.tilavuus - self.saldo
 
+    # Lisää varastoon parametrin [maara] verran saldoa
     def lisaa_varastoon(self, maara):
         if maara < 0:
             return
